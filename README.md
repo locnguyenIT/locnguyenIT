@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nguyen Thanh Loc a Software Engineer. Nice to see you.
+### Hi there 👋 I'm Nguyen Thanh Loc a Software Engineer from Vietnam. Nice to see you 😄
 
 <!--
 **locnguyenIT/locnguyenIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
